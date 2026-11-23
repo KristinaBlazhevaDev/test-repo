@@ -1,0 +1,3 @@
+name = Kristina
+age = 25
+email = kristina@softuni.bg
